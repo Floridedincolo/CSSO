@@ -1,0 +1,5 @@
+Copiat: C:\TestDir\a.txt -> C:\Users\teo\Documents\csso\lab1\a.txt
+Copiat: C:\TestDir\b.txt -> C:\Users\teo\Documents\csso\lab1\b.txt
+Copiat: C:\TestDir\e.png -> C:\Users\teo\Documents\csso\lab1\e.png
+Copiat: C:\TestDir\f.png -> C:\Users\teo\Documents\csso\lab1\f.png
+Copiat: C:\TestDir\g.png.txt -> C:\Users\teo\Documents\csso\lab1\g.png.txt
