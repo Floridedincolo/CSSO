@@ -1,0 +1,16 @@
+file: C:\WINDOWS\system32\SecurityHealthSystray.exe
+CompanyName: Microsoft Corporation
+ProductName: Microsoft® Windows® Operating System
+FileVersion: 10.0.26100.1882 (WinBuild.160101.0800)
+
+file: C:\Windows\System32\calc.exe
+CompanyName: Microsoft Corporation
+ProductName: Microsoft® Windows® Operating System
+FileVersion: 10.0.26100.1 (WinBuild.160101.0800)
+
+File: C:\Users\teo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\MyApp.exe no version info available.
+
+File: C:\Users\teo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\saga.exe no version info available.
+
+File: C:\Users\teo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\test.bat no version info available.
+

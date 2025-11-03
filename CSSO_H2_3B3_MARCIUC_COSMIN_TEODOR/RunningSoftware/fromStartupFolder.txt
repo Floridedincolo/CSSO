@@ -1,0 +1,5 @@
+Name= desktop.ini CreationTime= 2025/10/05 00:04:40 LastAccessTime= 2025/10/21 03:56:03 LastWriteTime= 2025/10/05 00:04:40 IsExecutable= 0 
+Name= MyApp.exe CreationTime= 2025/10/21 04:02:36 LastAccessTime= 2025/10/21 04:03:45 LastWriteTime= 2025/10/21 04:02:15 IsExecutable= 1 
+Name= saga.exe CreationTime= 2025/10/21 01:57:32 LastAccessTime= 2025/10/21 03:58:27 LastWriteTime= 2025/10/21 01:57:49 IsExecutable= 1 
+Name= test.bat CreationTime= 2025/10/21 01:57:32 LastAccessTime= 2025/10/21 03:58:27 LastWriteTime= 2025/10/21 01:57:32 IsExecutable= 1 
+Name= desktop.ini CreationTime= 2024/04/01 01:45:36 LastAccessTime= 2025/10/21 00:07:47 LastWriteTime= 2024/04/01 01:44:46 IsExecutable= 0 

@@ -1,0 +1,15 @@
+HiveRoot=HKLM Key=SOFTWARE\Microsoft\Windows\CurrentVersion\Run SubKeys=0 Values=1 LastWrite=2024/04/01 01:48:13
+  ValueName=SecurityHealth Type=2 RawSize=44 Raw=%windir%\system32\SecurityHealthSystray.exe Expanded=C:\WINDOWS\system32\SecurityHealthSystray.exe Exists=1
+
+HiveRoot=HKLM Key=SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce SubKeys=0 Values=0 LastWrite=2025/10/05 03:40:58
+
+HiveRoot=HKCU Key=SOFTWARE\Microsoft\Windows\CurrentVersion\Run SubKeys=0 Values=6 LastWrite=2025/10/21 03:58:27
+  ValueName=MicrosoftEdgeAutoLaunch_C4B3BA68322F41183A2198BD168B299D Type=1 RawSize=83 Raw="C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --win-session-start Expanded="C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --win-session-start Exists=0
+  ValueName=OneDrive Type=1 RawSize=73 Raw="C:\Users\teo\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background Expanded="C:\Users\teo\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background Exists=0
+  ValueName=Discord Type=1 RawSize=75 Raw="C:\Users\teo\AppData\Local\Discord\Update.exe" --processStart Discord.exe Expanded="C:\Users\teo\AppData\Local\Discord\Update.exe" --processStart Discord.exe Exists=0
+  ValueName=Change Wallpaper Type=1 RawSize=48 Raw=C:\Users\teo\Documents\facultateCiornei.pdf.bat Expanded=C:\Users\teo\Documents\facultateCiornei.pdf.bat Exists=0
+  ValueName=CSSOWallpaper Type=1 RawSize=43 Raw="C:\Users\teo\Documents\cssoWallpaper.bat" Expanded="C:\Users\teo\Documents\cssoWallpaper.bat" Exists=0
+  ValueName=MyCalcLauncher Type=1 RawSize=29 Raw=C:\Windows\System32\calc.exe Expanded=C:\Windows\System32\calc.exe Exists=1
+
+HiveRoot=HKCU Key=SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce SubKeys=0 Values=0 LastWrite=2025/10/19 02:41:09
+
